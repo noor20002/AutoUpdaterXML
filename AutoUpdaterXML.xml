@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-  <version>8.0.0.0</version>
-  <url>https://www.nuget.org/packages/System.Text.Json</url>
-  <mandatory>false</mandatory>
+    <version>8.0.0.0</version>
+    <url>https://www.nuget.org/packages/System.Text.Json</url>
+    <mandatory>false</mandatory>
 </item>
