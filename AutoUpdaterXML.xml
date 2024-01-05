@@ -2,5 +2,4 @@
 <item>
   <version>8.0.0</version>
   <url>https://www.nuget.org/packages/System.Text.Json</url>
-  //<mendatory>false</mendatory>
 </item>
