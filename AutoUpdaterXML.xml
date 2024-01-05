@@ -1,6 +1,6 @@
-<?XML version='1.1' encoding='UTF-8'?>
+<?XML version='1.0' encoding='UTF-8'?>
 <Item>
-  <version>8.0.0.0</version>
+  <version>1.0.0.0</version>
   <url>https://www.nuget.org/api/v2/package/System.Text.Json/8.0.0</url>
   <changelog>https://github.com/ravibpatel/AutoUpdater.NET/releases</changelog>
   <mandatory>false</mandatory>
